@@ -6,7 +6,7 @@
 
 
 
-cybersecurity_journey/
+cybersecurity_journey/<br>
 ├── 📁 cheat_sheets/          # Printable quick references for on-the-job use
 │   ├── linux_basics_cheatsheet.md
 │	├── windows_basics_cheatsheet.md
@@ -24,4 +24,5 @@ cybersecurity_journey/
 ├── 📁 resources/             # Useful templates and checklists
 │   ├── 
 │   └── 
+
 └── README.md
