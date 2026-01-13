@@ -201,12 +201,12 @@ crontab -e #run/edit Crontab
 
 ```bash
 #NETCAT basics<br>
-nc -vzw 1 [ip adress] [port number] #verbose scanning, timeout for connects, zero-I/O mode used for scanning]<br>
-nc -l #listen mode, for inbound connects<br>
-nc -lvp [port number] > [file name] #listening mode on local port [port number], input is writing to [file name]<br>
-nc -n [ip adress] [port number] < [file name] #[file name] expousure for host [ip adress] on [port number]<br>
-nc -lvp [port number] | tar vzxf - #listening mode on local port [port number], decompresses and shows input<br>
-tar czvf - [folder name] | nc -n [ip adress] [port number] #compresses [folder name] and send to host with [ip adress]<br>
+nc -vzw 1 [ip adress] [port number] #verbose scanning, timeout for connects, zero-I/O mode used for scanning]
+nc -l #listen mode, for inbound connects
+nc -lvp [port number] > [file name] #listening mode on local port [port number], input is writing to [file name]
+nc -n [ip adress] [port number] < [file name] #[file name] expousure for host [ip adress] on [port number]
+nc -lvp [port number] | tar vzxf - #listening mode on local port [port number], decompresses and shows input
+tar czvf - [folder name] | nc -n [ip adress] [port number] #compresses [folder name] and send to host with [ip adress]
 ```
 
 ```bash
