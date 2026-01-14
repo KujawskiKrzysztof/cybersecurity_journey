@@ -1,4 +1,4 @@
-'''mssql 
+'''sql 
 SELECT *  
 FROM
 '''
