@@ -3,7 +3,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [linux basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/linux_basics_cheatsheet.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [windows basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/networks_basics_cheatsheet.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [networks basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/windows_basics_cheatsheet.md) AI Generated<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [databases basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/databases_basics_cheatsheet_mssqlexample.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 study_notes/ ***<strong>Detailed notes from courses and bootcamps</strong>***<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
@@ -20,7 +20,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── :tv: YT channels/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [Pasja informatyki](https://www.youtube.com/@Pasjainformatyki) PL<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [Pawel Cyrklaf](https://www.youtube.com/@PawelCyrklafDevOps) PL<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [SekurakTV](https://www.youtube.com/@SekurakTV) PL<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [SekurakTV](https://www.youtube.com/@SekurakTV) PL<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 └── README.md<br>
 
