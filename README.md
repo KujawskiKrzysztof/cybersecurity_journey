@@ -1,8 +1,8 @@
 ### cybersecurity_journey/<br>
 ├── 📁 cheat_sheets/ ***<strong> Quick references for on-the-job use</strong>***<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [linux basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/linux_basics_cheatsheet.md)<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [windows basics cheatsheet](windows_basics_cheatsheet.md)<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [networks basics cheatsheet](networks_basics_cheatsheet.md)<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [linux basics cheatsheet](/cybersecurity_journey/cheat_sheets/linux_basics_cheatsheet.md)<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [windows basics cheatsheet](/cybersecurity_journey/cheat_sheets/windows_basics_cheatsheet.md)<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [networks basics cheatsheet](/cybersecurity_journey/cheat_sheets/networks_basics_cheatsheet.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 study_notes/ ***<strong>Detailed notes from courses and bootcamps</strong>***<br>
