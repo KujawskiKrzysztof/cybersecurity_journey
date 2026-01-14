@@ -1,9 +1,9 @@
-```sql
-SELECT *<br>
+```mysql
+SELECT *
 FROM
 ```
 
 ```bash
-SELECT *<br>
+SELECT *
 FROM
 ```
