@@ -1,7 +1,7 @@
 # Linux Basics
 
 ```bash
-touch # make file
+touch #make file
 
 #displays current directory content command
 ls
