@@ -1,5 +1,7 @@
-'SELECT *<br>
-FROM'
+```sql
+SELECT *<br>
+FROM
+```
 
 ```bash
 SELECT *<br>
