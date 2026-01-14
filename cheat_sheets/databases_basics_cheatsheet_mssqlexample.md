@@ -1,2 +1,2 @@
-'SELECT * 
+'SELECT *<br>
 FROM'
