@@ -6,7 +6,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [databases basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/database_basics_cheatsheet_mssqlexample.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 study_notes/ ***<strong>Detailed notes from courses and bootcamps</strong>***<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [linux_notes](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/study_notes/linux_motes.md)<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [linux_notes](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/study_notes/linux_notes.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 lab_writeups/ ***<strong>Step-by-step hands-on lab walkthroughs</strong>***<br>
