@@ -11,7 +11,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 lab_writeups/ ***<strong>Step-by-step hands-on lab walkthroughs</strong>***<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [lab_writeups](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/OSi_TCP_Network_Labs.md) AI Generated<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [OSi_TCP_Network_Labs](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/OSi_TCP_Network_Labs.md) AI Generated<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 resources/ ***<strong>Useful templates, checklists, courses, tutorials etc.</strong>***<br>
