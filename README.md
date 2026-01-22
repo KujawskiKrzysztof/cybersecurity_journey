@@ -4,7 +4,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [windows basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/networks_basics_cheatsheet.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [networks basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/windows_basics_cheatsheet.md) AI Generated<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [databases basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/database_basics_cheatsheet_mssqlexample.md)<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [google dorking cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/google_dorking_cheatsheet.md) Claude AI Generated
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [google dorking cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/google_dorking_cheatsheet.md) Claude AI Generated<br>
 
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 study_notes/ ***<strong>Detailed notes from courses and bootcamps</strong>***<br>
@@ -12,8 +12,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 lab_writeups/ ***<strong>Step-by-step hands-on lab walkthroughs</strong>***<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [lab_writeups](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/OSi_TCP_Network_Labs.md) AI Generated<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [OSi_TCP_Network_Labs](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/OSi_TCP_Network_Labs.md) AI Generated<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──  [Network_Segmentation_Laboratory](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/Network_Segmentation_Laboratory.md) AI Generated<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 resources/ ***<strong>Useful templates, checklists, courses, tutorials etc.</strong>***<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── courses and tutorials/<br>
