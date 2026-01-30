@@ -5,10 +5,10 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [networks basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/windows_basics_cheatsheet.md) AI Generated<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [databases basics cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/database_basics_cheatsheet_mssqlexample.md)<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [google dorking cheatsheet](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/cheat_sheets/google_dorking_cheatsheet.md) Claude AI Generated<br>
-<<<<<<< HEAD
 
-=======
->>>>>>> 9c4ae4d78e9c3aa5d62d111c9982fc3377d41b7f
+
+
+
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 study_notes/ ***<strong>Detailed notes from courses and bootcamps</strong>***<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [linux_notes](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/study_notes/linux_notes.md)<br>
@@ -16,11 +16,10 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 lab_writeups/ ***<strong>Step-by-step hands-on lab walkthroughs</strong>***<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [OSi_TCP_Network_Labs](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/OSi_TCP_Network_Labs.md) AI Generated<br>
-<<<<<<< HEAD
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──  [Network_Segmentation_Laboratory](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/Network_Segmentation_Laboratory.md) AI Generated<br>
-=======
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br>
->>>>>>> 9c4ae4d78e9c3aa5d62d111c9982fc3377d41b7f
+
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <br> [Network_Segmentation_Laboratory_Extended_Description](https://github.com/KujawskiKrzysztof/cybersecurity_journey/blob/main/lab_writeups/Network_Segmentation_Laboratory_Extended_Description.md) AI Generated
+
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <br>
 ├── 📁 resources/ ***<strong>Useful templates, checklists, courses, tutorials etc.</strong>***<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── courses and tutorials/<br>
