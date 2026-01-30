@@ -104,15 +104,15 @@ I'll help you design a comprehensive network segmentation lab using VMware Works
 
 ### Step 3: Virtual Machine Network Assignment
 
-|VM|Network Adapter|Segment|
-|---|---|---|
-|pfSense|Multiple (see above)|Gateway|
-|Windows Server|VMnet3|Corporate|
-|Web Server|VMnet2|DMZ|
-|Database Server|VMnet4|Database/Secure|
-|Windows Client|VMnet3|Corporate|
-|Linux Admin|VMnet5|Management|
-|Kali Linux|VMnet8|External|
+| VM              | Network Adapter      | Segment         |
+| --------------- | -------------------- | --------------- |
+| pfSense         | Multiple (see above) | Gateway         |
+| Windows Server  | VMnet3               | Corporate       |
+| Web Server      | VMnet2               | DMZ             |
+| Database Server | VMnet4               | Database/Secure |
+| Windows Client  | VMnet3               | Corporate       |
+| Linux Admin     | VMnet5               | Management      |
+| Kali Linux      | VMnet8               | External        |
 
 ### Step 4: IP Address Scheme
 
@@ -157,5 +157,3 @@ If 7 VMs are too resource-intensive, you can reduce to 5:
 - Skip the dedicated attacker machine (use host OS with tools)
 
 [<iframe src="https://claude.site/public/artifacts/7d724ca5-1233-4f30-b79c-31f9a5a4e649/embed" title="Claude Artifact" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>](https://claude.ai/public/artifacts/7d724ca5-1233-4f30-b79c-31f9a5a4e649)
-
-
